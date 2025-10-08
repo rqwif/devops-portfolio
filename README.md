@@ -1,8 +1,6 @@
 # DevOps Portfolio
 
 
-# Test Discord webhook integration №2
-
 
 ## Вітаю!
 Мене звати **Аліна Кириченко**.  
